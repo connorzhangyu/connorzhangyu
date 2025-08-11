@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ---
 ## 关于我
 - 🎓 华北电力大学、广东外语外贸大学、<span title="朱拉隆功大学艺术学院">Faculty Of Arts Chulalongkorn University</span>
-- 💻 擅长技术：Go、Java
-- 🌱 目前学习方向：GO、VUE、AWS
+- 💻 擅长技术：Java、Go
+- 🌱 目前学习方向：GO、AWS认证、VUE、Uniapp、Cocos、英语、泰语
 - 📫 联系方式：[邮箱](mailto:connor@tosa.team) | [博客](https://tosa.team)
 ---
 <!--
