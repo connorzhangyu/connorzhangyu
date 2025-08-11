@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 ---
 -->
 ## 技术博客
-访问我的博客，分享最新技术文章。
-- [https://tosa.team](https://tosa.team)
-- [https://connorzhangyu.com](https://connorzhangyu.com)
+访问我的博客[墙内](https://connorzhangyu.com) [墙外](https://tosa.team)，分享最新技术文章。 
 ---
 感谢你的访问，欢迎交流！
