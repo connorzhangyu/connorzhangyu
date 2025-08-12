@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 -->
 ## 技术博客
-访问我的博客 [墙外](https://tosa.team) | [墙内](https://connorzhangyu.com)，分享最新技术文章。
+访问我的博客 [什么墙？哪里有墙？](https://tosa.team) | [符合中国特色社会主义安全规范](https://connorzhangyu.com)，分享最新技术文章。
 
 ---
 感谢你的访问，欢迎交流！
