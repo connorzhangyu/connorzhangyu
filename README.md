@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 华北电力大学、广东外语外贸大学、Chulalongkorn University
 - 💻 擅长技术：Java、Go
 - 🌱 目前学习方向：GO、AWS认证、VUE、Uniapp、Cocos、英语、泰语
-- 📫 联系方式：[邮箱](mailto:hi@isme.cz) | [博客](https://tosa.team)
+- 📫 联系方式：[邮箱](mailto:hi@isme.cz) | [博客](https://isme.cz)
 
 个人规划  断绝升职的心 安心写代码打磨技术 详细来说也简单就2步
 - 第一步 扩展 go vue 达到中上级标准 uniapp cocos 达到初中级标准 概括来说就是全栈达成
