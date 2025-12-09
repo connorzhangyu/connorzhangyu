@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 个人规划  断绝升职的心 安心写代码打磨技术 详细来说也简单就2步
 - 第一步 扩展 go vue 达到中上级标准 uniapp cocos 达到初中级标准 概括来说就是全栈达成
-- 第二步 aws专家级的认证 参与一个优秀的开源项目 长期并行目标
+- 第二步 aws专家级认证 参与一个优秀的开源项目 长期并行目标
 - 安心追梦
 ---
 <!--
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 -->
 ## 技术博客
-访问我的 [博客](https://tosa.team) ，分享最新技术文章。
+访问我的 [博客](https://isme.cz) ，分享最新技术文章。
 
 ---
 感谢你的访问，欢迎交流！
