@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # Hi there 👋
 -->
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=connorzhangyu&show_icons=true&theme=radical)
 # Hi there 👋
 欢迎来到我的 GitHub 主页！
 ---
