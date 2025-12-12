@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 欢迎来到我的 GitHub 主页！
 ---
 ## 关于我
-- 🎓 华北电力大学、广东外语外贸大学、Chulalongkorn University
+- 🎓 华北电力大学、广东外语外贸大学、North-Chiang Mai University、Chulalongkorn University
 - 💻 擅长技术：Java、Go
 - 🌱 目前学习方向：GO、AWS认证、VUE、Uniapp、Cocos、英语、泰语
 - 📫 联系方式：[邮箱](mailto:hi@isme.cz) | [博客](https://isme.cz)
