@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📫 联系方式：[邮箱](mailto:hi@isme.cz) | [博客](https://isme.cz)
 
 个人规划  断绝升职的心 安心写代码打磨技术 详细来说也简单就2步
-- 第一步 扩展 go vue 达到中上级标准 uniapp cocos 达到初中级标准 概括来说就是全栈达成
-- 第二步 aws专业级认证 参与一个优秀的开源项目 长期并行目标
+- 第一阶段 扩展 go vue 达到中上级标准 uniapp cocos 达到初中级标准 概括来说就是全栈达成
+- 下一阶段 aws专业级认证 做一个自己完全理解的项目 参与一个优秀的开源项目 长期并行目标
 - 安心追梦
 ---
 <!--
